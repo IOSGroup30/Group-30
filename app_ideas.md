@@ -1,6 +1,7 @@
-group 30 :)
+Mobile App Dev - Group 30
+===
 
-# Favorite Existing Apps - List
+## Favorite Existing Apps - List
 
 1. Snapchat
 2. Instagram
