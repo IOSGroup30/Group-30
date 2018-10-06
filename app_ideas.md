@@ -29,8 +29,6 @@ Mobile App Dev - Group 30
 - **Habit:** Users can post how every many times they want throughtout the day. Features gif and memes. Users can also post short video clips and pictures.
 - **Scope:** Jack Dorsey introduced the idea of creating an SMS(short message service, texting for example) that would allow a user to communicate with a small group of people. Now Twitter is one of the biggest social media networking sites
 
-
-
 ### Snapchat
 
 - **Category:** Photo & Video / Social 
@@ -40,9 +38,6 @@ Mobile App Dev - Group 30
 - **Habit:** Users can post throughout the day many times. Features like "Stories" encourage more candid posting as well. Users can explore endless pictures in any category imaginable whenever they want. 
 - **Scope:** Snapchat started out small with a younger audience and now has expanded to all ages and uses like social/news/business.
 
-    
-    
-    
 ## Apple Music
 - **Category:** Music Streaming
 - **Mobile:** Website is for streaming music, mobile first experience.
@@ -61,17 +56,43 @@ Mobile App Dev - Group 30
 
 
 ## New App Ideas - List (5 per person)
-1. Idea
-   - [description]
-2. 
-3. 
-4. 
-5. 
-6. ...   
+1. Intern hiring app (for cs)
+   - Companies or startups looking for interns can post what they're looking for and etc? Kind of like linked in
+2. Homework Scheduler / Scanner listing thingy
+   - Students / Teachers would take a picture of the assignment and it would automatically post it with information in the correct category (Ex: due dates / requirements / files / etc)
+3. Cheap food / grocery finder app
+   - Finds places near you with the cheapest groceries and food. You can specify ranges of prices that you want to include.
+4. Books / School supply seller app 
+   - For students who have textbooks and other materials for courses that they don't need anymore, they can put it as a listing.
+5. Housing finder app for students / others
+   - Finds listings of houses that are in the range of prices that students specify so they can find an apartment or place easily.
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. Pick up Line App
+    - Randomly selects a pick up line for emergency situations
+17. Meeting/Class Reminder app
+    - Reminds you of upcoming events
+18. Vistors App
+    - Shows tourist places to go when they are in a certain area (user input can also be added)
+19. Homework/Assignment app
+    - Teachers and students can keep track of up coming assignments and tests
+20. Money Management App
+    - User can track how much they spend and create weekly/monthly budgets
 
 
 ## Top 3 New App Ideas
 1. 
 2. 
+3. 
+
+
 
 
