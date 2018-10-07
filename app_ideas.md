@@ -66,33 +66,34 @@ Mobile App Dev - Group 30
    - For students who have textbooks and other materials for courses that they don't need anymore, they can put it as a listing.
 5. Housing finder app for students / others
    - Finds listings of houses that are in the range of prices that students specify so they can find an apartment or place easily.
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. Pick up Line App
+6. Quick & Easy Healthy Recipes
+   - For anyone who wants to be healthier or maintain a healthier lifestyle. 
+7. Finding avaiablabe parking at a place like malls or schools 
+   - This can help people find a parking spot faster and will be able to know exactly where they parked through the app. 
+8. Daily goals app
+   - Writing down goals for the day/week, the purpose is to make the user's life less stress and a little more organized. Can be very useful for people with anxiety or etc. 
+9. App that delivers your groceries 
+   - Instead of driving and leaving home, someone can get groceries for the user without having them to leave the house 
+10. App that tells you exactly what you need to eat to stay healthy for your own body needs
+    - this can help everybody on what exactly the user should get into thier system to make sure the body has all the nutrients and vitamin it needs, with also the help of doctors (blood tests, etc)
+11. Pick up Line App
     - Randomly selects a pick up line for emergency situations
-17. Meeting/Class Reminder app
+12. Meeting/Class Reminder app
     - Reminds you of upcoming events
-18. Vistors App
+13. Vistors App
     - Shows tourist places to go when they are in a certain area (user input can also be added)
-19. Homework/Assignment app
+14. Homework/Assignment app
     - Teachers and students can keep track of up coming assignments and tests
-20. Money Management App
+15. Money Management App
     - User can track how much they spend and create weekly/monthly budgets
-
-
+16. 
+17. 
+18. 
+19. 
+20. 
 ## Top 3 New App Ideas
 1. 
 2. 
 3. 
-
-
 
 
