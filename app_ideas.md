@@ -86,14 +86,45 @@ Mobile App Dev - Group 30
     - Teachers and students can keep track of up coming assignments and tests
 15. Money Management App
     - User can track how much they spend and create weekly/monthly budgets
-16. 
+16. Meal / Recipe Maker
+    - Users can take a picture of the ingredients in their fridge and the app will generate a list of recipes that is possible to make with the amounts of ingredients applied. Users can also simply list how much ingredients they have.
 17. 
 18. 
 19. 
-20. 
+
+
 ## Top 3 New App Ideas
-1. 
-2. 
-3. 
+1. Housing finder app for students / others
+   - Finds listings of houses that are in the range of prices that students specify so they can find an apartment or place easily.
+2. Finding avaiablabe parking at a place like malls or schools 
+   - This can help people find a parking spot faster and will be able to know exactly where they parked through the app. 
+3. Meal / Recipe Maker
+   - Users can take a picture of the ingredients in their fridge and the app will generate a list of recipes that is possible to make with the amounts of ingredients applied. Users can also simply list how much ingredients they have.
 
+## New App Ideas - Evaluate and Categorize
+1.) Housing finder app for students / others
+- **Description:** Finds listings of houses that are in the range of prices that students specify so they can find an apartment or place easily. Students and other people can also list places for rent and things like "looking for a roommates" or something.
+- **Category:** Lifestyle / Real Estate 
+- **Mobile:**  Using Gps tracking on phone, the app will find areas around the person. It will also give notifications if a new listing has been uploaded or found.
+- **Story:** Allows students to find a place to stay as they attend school in a different area.
+- **Market:** College students / interns / people looking for cheap places to stay
+- **Habit:** once or twice a year or perhaps longer if the user is unable to find a place
+- **Scope:** Can start small as an app that allows students to share places that they want to rent / look for roommates. Somewhat difficult to complete before end of program
 
+2.) Finding avaiablabe parking at a place like malls or schools 
+- **Description:** This can help people find a parking spot faster and will be able to know exactly where they parked through the app.
+- **Category:** Parking / Lifestyle?
+- **Mobile:** Using Gps and perhaps some new potential tech, marks the location of a parking if a car drives in and checks in and shows / dictates available areas and gives directions to it.
+- **Story:** Allows Drivers to save time and find parking spaces at ease
+- **Market:** Drivers (parent / students / etc)
+- **Habit:** Ranges from daily to weekly depending on how frequently the driver goes outside
+- **Scope:** Can start with garages that have labeled parking and incorportate app and have people use them? Might be somewhat difficult to approach. Probably won't be able to finish by end of program?
+
+3.) Meal / Recipe Maker
+- **Description:** Users can take a picture of the ingredients in their fridge and the app will generate a list of recipes that is possible to make with the amounts of ingredients applied. Users can also simply list how much ingredients they have.
+- **Category:** Food / Health
+- **Mobile:** Uses the camera to scan the available food in the fridge.
+- **Story:** Allows the user to cook / make food given the amount of ingredients provided
+- **Market:** College students / adults / people who don't know what food to make with what they have
+- **Habit:** Expected to be used daily or every other day given that they eat everyday 
+- **Scope:** Ranges from somewhat difficult to really difficult. What we could probably accomplish by the end of the program is having the app generate some recipes given a list of ingredients but i don't know if we could get the camera to recognize the different types of food.
