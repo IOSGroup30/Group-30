@@ -88,9 +88,12 @@ Mobile App Dev - Group 30
     - User can track how much they spend and create weekly/monthly budgets
 16. Meal / Recipe Maker
     - Users can take a picture of the ingredients in their fridge and the app will generate a list of recipes that is possible to make with the amounts of ingredients applied. Users can also simply list how much ingredients they have.
-17. 
-18. 
-19. 
+17. Teaching App
+    - People who are efficient in anything can sign up to teach a class and people can sign up to take the class.
+19. Time Manager
+    - Insert everything you need to do and how much time it will take and the app will organize your day for you
+20. Study by School App
+    - Study app that organizes material by school and subject and professors/students can input old test/quizzes/resources to help students study. 
 
 
 ## Top 3 New App Ideas
