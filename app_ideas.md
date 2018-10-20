@@ -1,5 +1,7 @@
 Mobile App Dev - Group 30
-===
+==========================
+Group: Anastacio Bejarano
+       
 
 ## Favorite Existing Apps - List
 
@@ -94,6 +96,8 @@ Mobile App Dev - Group 30
     - Insert everything you need to do and how much time it will take and the app will organize your day for you
 20. Study by School App
     - Study app that organizes material by school and subject and professors/students can input old test/quizzes/resources to help students study. 
+21. Workout app
+    - App that makes random workouts for you based on the certain aspects that you select like muscle groups or like weights or your goals
 
 
 ## Top 3 New App Ideas
@@ -103,6 +107,8 @@ Mobile App Dev - Group 30
    - This can help people find a parking spot faster and will be able to know exactly where they parked through the app. 
 3. Meal / Recipe Maker
    - Users can take a picture of the ingredients in their fridge and the app will generate a list of recipes that is possible to make with the amounts of ingredients applied. Users can also simply list how much ingredients they have.
+4. Workout app
+    - App that makes random workouts for you based on the certain aspects that you select like muscle groups or like weights or your goals
 
 ## New App Ideas - Evaluate and Categorize
 1.) Housing finder app for students / others
