@@ -1,6 +1,10 @@
 Mobile App Dev - Group 30
 ==========================
-Group: Anastacio Bejarano
+Group Members: Anastacio Bejarano
+               Jasmine Vo
+               Martha Caldera
+               Peter Chuong
+               Ralph Belleca
        
 
 ## Favorite Existing Apps - List
