@@ -5,7 +5,6 @@ Group Members: Anastacio Bejarano
                Martha Caldera
                Peter Chuong
                Ralph Belleca
-       
 
 ## Favorite Existing Apps - List
 
@@ -112,7 +111,7 @@ Group Members: Anastacio Bejarano
 3. Meal / Recipe Maker
    - Users can take a picture of the ingredients in their fridge and the app will generate a list of recipes that is possible to make with the amounts of ingredients applied. Users can also simply list how much ingredients they have.
 4. Workout app
-    - App that makes random workouts for you based on the certain aspects that you select like muscle groups or like weights or your goals
+   - App that makes random workouts for you based on the certain aspects that you select like muscle groups or like weights or your goals
 
 ## New App Ideas - Evaluate and Categorize
 1.) Housing finder app for students / others
@@ -141,3 +140,12 @@ Group Members: Anastacio Bejarano
 - **Market:** College students / adults / people who don't know what food to make with what they have
 - **Habit:** Expected to be used daily or every other day given that they eat everyday 
 - **Scope:** Ranges from somewhat difficult to really difficult. What we could probably accomplish by the end of the program is having the app generate some recipes given a list of ingredients but i don't know if we could get the camera to recognize the different types of food.
+
+4.) Workout App 
+- **Description:** The app essentially will create a workout and meal plan based on what the user is trying to work out on or train. 
+- **Category:** Health and Fitness
+- **Mobile:** Can be access through phone and desktop. Uses camera to keep track of the user's progress. 
+- **Story:** Allows the user to make a workout plan and schedule meals and other nutrients intake.
+- **Market:** Targets users who want to lose, gain, or maintain weight. 
+- **Habit:** Expected to be used daily or whenever a user heads to the gym. Could range from daily to 3/5 times a week. Could possibly be used more if the person goes to the gym often.
+- **Scope:** Anyone who is working out or is planning to can use this app. Can be used with and without internet connection based on features used.
